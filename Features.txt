@@ -1,0 +1,8 @@
+Features:-
+- Minimalist design
+- CSS3 & HTML5 & JQUERY
+- Fully responsive
+- Transitions page animations
+- Responsive Images
+
+- Zoom Out In Frame
